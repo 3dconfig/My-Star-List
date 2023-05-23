@@ -5,6 +5,8 @@
 
 ## Contents
 
+- [awesome](#awesome)
+- [awesome-list](#awesome-list)
 - [github](#github)
 - [hacktoberfest](#hacktoberfest)
 - [linux](#linux)
@@ -13,6 +15,14 @@
 - [others](#others)
 - [qt](#qt)
 - [terminal](#terminal)
+
+## awesome 
+
+- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
+
+## awesome-list 
+
+- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 
 ## github 
 
