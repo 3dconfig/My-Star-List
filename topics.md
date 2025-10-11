@@ -15,6 +15,7 @@
 - [others](#others)
 - [qt](#qt)
 - [terminal](#terminal)
+- [youtube](#youtube)
 
 ## awesome 
 
@@ -57,6 +58,10 @@
 ## terminal 
 
 - [Swordfish90/cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display...
+
+## youtube 
+
+- [DenverCoder1/github-readme-youtube-cards](https://github.com/DenverCoder1/github-readme-youtube-cards) - Workflow for displaying recent YouTube videos as SVG cards in your readme
 
 
 ## License
